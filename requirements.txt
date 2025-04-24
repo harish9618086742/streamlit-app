@@ -1,7 +1,5 @@
 joblib
 lightgbm
-<<<<<<< HEAD
-=======
 geopy
 sklearn
->>>>>>> b4eecb1658b8c2f215b7f333ef23f4eb4a4b3798
+
